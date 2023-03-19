@@ -1,10 +1,10 @@
 ### Repositório de projetos do Bootcamp Data Engineer disponibilizado pela DIO.
 
-## Tecnologias utilizadas
+### Tecnologias utilizadas
 * Python
 * Excel
 
-## Autor
+### Autor
 Davi Leyendecker
 
 https://github.com/DaviLeyendecker
