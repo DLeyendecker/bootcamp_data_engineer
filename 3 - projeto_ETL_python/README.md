@@ -7,11 +7,11 @@ Repositório contém o projeto do processo de ETL para Extração, Transformaç�
 https://dados.gov.br/dados/conjuntos-dados/ocorrencias-aeronauticas-da-aviacao-civil-brasileira
 
 
-## Tecnologias utilizadas
+### Tecnologias utilizadas
 * Python
 * Excel
 
-## Autor
+### Autor
 Davi Leyendecker
 
 https://github.com/DaviLeyendecker
