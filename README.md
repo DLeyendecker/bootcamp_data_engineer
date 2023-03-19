@@ -1,4 +1,4 @@
-## DIO_projeto_ETL_python
+## projeto_ETL_python
 
 ## Sobre o projeto
 Repositório contém o projeto do processo de ETL para Extração, Transformação e Carga do arquivo extraído da CENIPA - Ocorrências Aeronáuticas na Aviação Civil Brasileira.
