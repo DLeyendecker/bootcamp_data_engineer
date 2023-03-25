@@ -11,6 +11,6 @@ Esse repositório contém um script de um Projeto em Python utilizando as biblio
 ### Autor
 Davi Leyendecker
 
-https://github.com/DaviLeyendecker
+https://github.com/DLeyendecker
 
 https://www.linkedin.com/in/davileyendecker/
