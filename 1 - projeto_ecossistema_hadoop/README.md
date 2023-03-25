@@ -14,7 +14,7 @@ Criando um ecossistema Hadoop totalmente gerenciado com Google Cloud Platform. O
 
 Davi Leyendecker
 
-https://github.com/DaviLeyendecker
+https://github.com/DLeyendecker
 
 https://www.linkedin.com/in/davileyendecker/
 
