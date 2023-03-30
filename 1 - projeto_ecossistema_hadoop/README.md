@@ -9,6 +9,5 @@ O projeto Ecossistema Hadoop consiste em criar um ambiente Hadoop totalmente ger
 
 •	CGP Cloud
 
-### Autor
 
 
