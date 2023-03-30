@@ -1,7 +1,4 @@
+Eu participei do Bootcamp de Engenharia de Dados, um programa voltado para pessoas que desejam aprender as habilidades necessárias para criar soluções inteligentes utilizando grandes volumes de dados. Durante o programa, tive acesso a uma ampla gama de conhecimentos em áreas como análise de dados, bancos de dados, programação e sistemas distribuídos.
 
-O repositório se trata de um Bootcamp direcionado à Engenharia de Dados, com o objetivo de oferecer aos seus participantes a oportunidade de aprender com especialistas do mercado as habilidades essenciais para criar soluções inteligentes por meio de grandes volumes de dados. 
-
-O programa apresenta um vasto conjunto de conhecimentos em diversas áreas, tais como análise de dados, bancos de dados, programação e sistemas distribuídos, entre outras. 
-
-No decorrer do Bootcamp, os participantes tiveram a oportunidade de desenvolver projetos práticos e aplicar seus conhecimentos em situações reais, utilizando diversas ferramentas e tecnologias disponíveis no mercado. O repositório oferece recursos para o estudo e desenvolvimento dos projetos, e possibilita o acesso a uma comunidade de estudantes e profissionais que compartilham interesses e conhecimentos na área de Engenharia de Dados.
+Ao longo do Bootcamp, pude desenvolver projetos práticos e aplicar meus conhecimentos em situações reais, utilizando diversas ferramentas e tecnologias disponíveis no mercado. O repositório do programa oferece recursos para o estudo e desenvolvimento dos projetos, além de possibilitar o acesso a uma comunidade de estudantes e profissionais que compartilham interesses e conhecimentos na área de Engenharia de Dados.
 
