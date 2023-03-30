@@ -3,8 +3,7 @@ O projeto em questão é um script em Python desenvolvido para a análise de dad
 
 
 ### Tecnologias utilizadas
-* Python
-* Bibliotecas Pandas, Matplotlib e Seaborn.
+* Python (Bibliotecas Pandas, Matplotlib e Seaborn)
 * Dados
 * Git
 
