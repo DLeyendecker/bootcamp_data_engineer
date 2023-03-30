@@ -1,8 +1,7 @@
-### projeto_ecossistema_hadoop
 
 ### Sobre o projeto
 
-Criando um ecossistema Hadoop totalmente gerenciado com Google Cloud Platform. O desafio consiste em efetuar um processamento de dados utilizando o produto Dataproc do GCP. Esse processamento irá efetuar a contagem das palavras de um livro e informar quantas vezes cada palavra aparece. O projeto faz parte do Bootcamp Data Enginner na plataforma Digital Innovation One.
+O projeto Ecossistema Hadoop consiste em criar um ambiente Hadoop totalmente gerenciado na plataforma GCP, utilizando o produto Dataproc. O objetivo é realizar o processamento de dados para contar a frequência de palavras em um livro, fornecendo informações sobre quantas vezes cada palavra aparece. Essa solução faz parte do Bootcamp Data Engineer da plataforma Digital Innovation One e as principais tecnologias utilizadas são Hadoop e GCP Cloud.
 
 ### Tecnologias utilizadas
 
@@ -12,9 +11,4 @@ Criando um ecossistema Hadoop totalmente gerenciado com Google Cloud Platform. O
 
 ### Autor
 
-Davi Leyendecker
-
-https://github.com/DLeyendecker
-
-https://www.linkedin.com/in/davileyendecker/
 
